@@ -1,0 +1,107 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11139</md:content-id>
+  <md:title>A Self Help and Improvement Book: Useful Psychology Information (An Integration of Personality, Social, Interaction, Communication and Well-Being Psychology)</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>dd93e876-fd79-4665-be8f-89a346231115</md:uuid>
+<md:slug>useful-psychology-information-reviews-of-important-ideas-and-research</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m40665">
+        <col:featured-links>
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.org/content/col11139/latest/">A Self Help and Improvement Book: Useful Psychology Information (An Exposition and Critique of Important Ideas from Personality, Social, Well-Being and Developmental Psychology)</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m41079"/>
+        
+      
+    
+    
+      <col:module document="m41461"/>
+        
+      
+    
+    
+      <col:module document="m33172"/>
+        
+      
+    
+    
+      <col:module document="m40831"/>
+        
+      
+    
+    
+      <col:module document="m40964"/>
+        
+      
+    
+    
+      <col:module document="m40963"/>
+        
+      
+    
+    
+      <col:module document="m41042"/>
+        
+      
+    
+    
+      <col:module document="m40704"/>
+        
+      
+    
+    
+      <col:module document="m40940"/>
+        
+      
+    
+    
+      <col:module document="m38823"/>
+        
+      
+    
+    
+      <col:module document="m33455"/>
+        
+      
+    
+    
+      <col:module document="m32953"/>
+        
+      
+    
+    
+      <col:module document="m14812"/>
+        
+      
+    
+    
+      <col:module document="m34114"/>
+        
+      
+    
+    
+      <col:module document="m14334"/>
+        
+      
+    
+  </col:content>
+</col:collection>
